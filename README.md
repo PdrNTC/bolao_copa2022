@@ -1,5 +1,7 @@
 # bolao_copa2022
 
+![logo_catar](https://user-images.githubusercontent.com/49096891/211222431-5fddf256-6b42-4103-91b0-1554f678822a.png)
+
 Este é um programa que de um projeto que desenvolvi, em menos de 3 dias, para o bolão da copa do mundo de 2022.
 
 A ideia surgiu após o convite para participar desse bolão entre amigos e familiares, para contabilizar os pontos e o ranking era necessário fazer manualmente, então criei a aplicação que permite que qualquer um possa inserir os pontos atuais e os palpites, em sequência o programa calcula automaticamente a posição de cada jogador no ranking, facilitando um bocado o trabalho do administrador do bolão.
